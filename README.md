@@ -1,13 +1,11 @@
-<h1 align="center">🚀 Transformando ideias em soluções com tecnologia inteligente</h1>
-
-<p align="center">
-  <i>Estudante de ADS na UNA | Backend em formação | Foco em automação e impacto real</i>
-</p>
-
 <!-- Banner de boas-vindas personalizado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=130&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 </div>
+
+<p align="center">
+  <i>Estudante de ADS na UNA | Backend em formação | Foco em automação e impacto real</i>
+</p>
 
 ---
 
