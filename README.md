@@ -69,5 +69,4 @@ Meu foco está em **aumentar produtividade, eliminar tarefas repetitivas** e **o
 <!-- Rodapé com o mesmo estilo do cabeçalho -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=100&section=footer"/>
-  <p>✨ Obrigado por visitar meu perfil! ✨</p>
 </div>
