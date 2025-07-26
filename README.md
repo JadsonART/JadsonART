@@ -50,8 +50,8 @@ Meu foco está em **aumentar produtividade, eliminar tarefas repetitivas** e **o
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JadsonART&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadsonART&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
 </div>
 
 ---
