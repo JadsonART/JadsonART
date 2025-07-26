@@ -1,40 +1,20 @@
+<img align="right" width="300" src="https://media.giphy.com/media/3o7aCVpHdeqGl5SZhC/giphy.gif">
+
+# 🔥 Jadson Rodrigues Pinto
+
+> “Transformando ideias em código e processos em soluções inteligentes.”
+
+👨‍🎓 ADS | UNA | 3º Período  
+🌐 Backend Dev | Foco em automação e produtividade  
+☁️ Familiar com AWS e Google Cloud  
+💬 Comunicação + Empatia + Soluções reais
 
 ---
 
-## 🧘 **Modelo 3 – Clean & Minimalista (Ideal para LinkedIn + Portfólio)**
+### 🚀 Skills
 
-```markdown
-# Jadson Rodrigues Pinto
-
-Estudante de **Análise e Desenvolvimento de Sistemas** (UNA)  
-Foco em desenvolvimento backend, automação de processos e cloud computing.  
-Experiência com atendimento ao cliente me deu base para trabalhar com empatia e escuta ativa, aplicando isso em soluções técnicas.
-
----
-
-## 🛠 Tecnologias
-
-- Python • JavaScript • Java • SQL  
-- HTML • CSS • Git  
-- AWS • Google Cloud  
-
----
-
-## 🌱 Em aprendizado
-
-- Flask + APIs REST  
-- Segurança Web  
-- Integrações em nuvem  
-
----
-
-## 📊 GitHub Insights
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite)
-
----
-
-## 📫 Contato
-
-📧 jadson@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
+```python
+Tech = ["Python", "JavaScript", "Java", "SQL"]
+Web = ["HTML", "CSS"]
+Cloud = ["AWS", "Google Cloud"]
+Tools = ["Git", "SQLite", "VSCode"]
