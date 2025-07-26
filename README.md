@@ -5,8 +5,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:ff007f&height=130&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=130&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 </div>
+
 
 
 ---
