@@ -1,31 +1,40 @@
-# 👋 Oi! Eu sou o Jadson.
-
-💡 Acredito que a tecnologia deve servir para **simplificar** o cotidiano das pessoas e das empresas.
-
-🧩 Estudo Análise e Desenvolvimento de Sistemas na UNA, com foco em:
-- Automação de processos
-- Escalabilidade
-- Eficiência em código
-
-🔧 Conhecimentos:
-> Python · JavaScript · Java · SQL · HTML · CSS · Git · AWS · GCP
 
 ---
 
-### 📌 Propósito Profissional
+## 🧘 **Modelo 3 – Clean & Minimalista (Ideal para LinkedIn + Portfólio)**
 
-> Desenvolver ferramentas que geram **impacto real** e otimizam o tempo de quem usa.  
-> Colaborar com projetos que entregam **valor contínuo** e **inteligência de processos**.
+```markdown
+# Jadson Rodrigues Pinto
 
----
-
-### 📊 GitHub em Ação
-
-![Jadson GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=solarized-light)
+Estudante de **Análise e Desenvolvimento de Sistemas** (UNA)  
+Foco em desenvolvimento backend, automação de processos e cloud computing.  
+Experiência com atendimento ao cliente me deu base para trabalhar com empatia e escuta ativa, aplicando isso em soluções técnicas.
 
 ---
 
-### 📮 Onde me encontrar
+## 🛠 Tecnologias
 
-- [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)  
-- [Email](mailto:jadson@email.com)
+- Python • JavaScript • Java • SQL  
+- HTML • CSS • Git  
+- AWS • Google Cloud  
+
+---
+
+## 🌱 Em aprendizado
+
+- Flask + APIs REST  
+- Segurança Web  
+- Integrações em nuvem  
+
+---
+
+## 📊 GitHub Insights
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite)
+
+---
+
+## 📫 Contato
+
+📧 jadson@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
