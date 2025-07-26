@@ -12,9 +12,8 @@
 
 ### 🧠 Sobre mim
 
-Apaixonado por tecnologia, sou estudante de **Análise e Desenvolvimento de Sistemas** na UNA. Tenho como objetivo constante o **crescimento pessoal e profissional**, buscando aplicar o conhecimento para gerar soluções reais e impactantes.
+Apaixonado por tecnologia, sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho como objetivo constante o **crescimento pessoal e profissional**, buscando aplicar o conhecimento para gerar soluções reais e impactantes.
 
-Tenho experiência com atendimento ao público, o que desenvolveu minha **comunicação, empatia** e **visão de processos** — habilidades que aplico na análise e melhoria de fluxos com tecnologia.
 
 ---
 
@@ -59,10 +58,10 @@ Meu foco está em **aumentar produtividade, eliminar tarefas repetitivas** e **o
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/jadson-rodrigues-3a7a8827b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:jadson408rodrigues@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
