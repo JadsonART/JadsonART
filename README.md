@@ -39,7 +39,7 @@ Apaixonado por tecnologia, sou estudante de **Análise e Desenvolvimento de Sist
 
 ### 💼 Objetivo profissional
 
-Crio e busco soluções **automatizadas, escaláveis e eficientes**. Acredito que a tecnologia deve simplificar o dia a dia — seja no trabalho ou na vida.  
+Crio e busco soluções **automatizadas, escaláveis e eficientes**. Acredito que a tecnologia deve simplificar o dia a dia, seja no trabalho ou na vida.  
 Meu foco está em **aumentar produtividade, eliminar tarefas repetitivas** e **otimizar processos** com código limpo e acessível.
 
 ---
