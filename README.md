@@ -1,59 +1,46 @@
-<h1 align="center">Olá, eu sou o Jadson 👋</h1>
+<h1 align="center">🚀 Jadson Rodrigues Pinto 🚀</h1>
+<p align="center">
+  Desenvolvedor em formação | Amante de automações | Estudante de ADS na UNA
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=ffffff&fontSize=30&animation=twinkling" />
+
+---
+
+### 🧠 Sobre mim
+
+Sou fascinado por soluções que **automatizam tarefas** e **melhoram processos**.  
+Atuo com empatia, escuta ativa e foco em **resolver problemas reais com tecnologia**.
+
+---
+
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <em>Apaixonado por tecnologia, focado em crescimento contínuo e na criação de soluções que simplificam a vida.</em>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
 </p>
 
 ---
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na UNA  
-🚀 Buscando constantemente novos desafios e aprendizados  
-🤝 Experiência sólida com atendimento ao público – o que aprimorou minha **comunicação**, **empatia** e **análise de processos**  
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-- **Linguagens:** Python, JavaScript, Java, SQL  
-- **Web:** HTML, CSS  
-- **Cloud:** AWS, Google Cloud  
-- **Banco de Dados:** MySQL, SQLite  
-- **Foco em:** automações, escalabilidade, produtividade e otimização de tarefas
-
----
-
-### 🌱 Atualmente estou...
-
-- Aprimorando minhas habilidades em desenvolvimento backend e automações
-- Estudando mais sobre segurança web e infraestrutura em nuvem
-- Trabalhando em projetos pessoais com foco em processos inteligentes e reaproveitamento de código
-
----
-
-### 💡 Filosofia de trabalho
-
-> “A tecnologia deve ser uma aliada que simplifica o dia a dia de pessoas e empresas.”
-
-Acredito que a transformação digital começa com empatia, escuta ativa e foco em resolver **problemas reais**.
-
----
-
-### 📈 GitHub Stats (exemplo, edite com seu usuário)
+### 📫 Contato
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=tokyonight" height="150"/>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jadson@email.com">
+    <img src="https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
----
-
-### 📬 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JadsonRodrigues-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-[![Gmail](https://img.shields.io/badge/Email-jadson%40email.com-red?style=flat-square&logo=gmail)](mailto:jadson@email.com)
-
----
-
-<p align="center">
-  ✨ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. ✨
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" />
