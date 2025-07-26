@@ -15,7 +15,7 @@ Apaixonado por tecnologia, sou estudante de **Análise e Desenvolvimento de Sist
 
 ---
 
-### 🚀 Tech Stack & Interesses
+### 🚀 Tech Stack
 
 <div align="center">
 
