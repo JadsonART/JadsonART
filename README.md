@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <i>Estudante de ADS na UNA | Backend em formação | Foco em automação e impacto real</i>
+  <i>Estudante de ADS | Backend em formação | Foco em automação</i>
 </p>
 
 ---
