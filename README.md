@@ -1,12 +1,13 @@
-<h1 align="center">🚀 Transformando ideias em soluções com tecnologia inteligente</h1>
+<h1 align="center">Transformando ideias em soluções com tecnologia inteligente</h1>
 
 <p align="center">
   <i>Estudante de ADS na UNA | Backend em formação | Foco em automação e impacto real</i>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f44d3&height=130&section=header&text=Construindo%20um%20futuro%20com%20código%20e%20propósito.&fontColor=ffffff&fontSize=24&fontAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a9f,100:9f44d3&height=130&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 </div>
+
 
 ---
 
